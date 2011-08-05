@@ -1,0 +1,12 @@
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\bin\Debug\Winlock.exe
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\bin\Debug\Winlock.pdb
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\bin\Debug\Winlock.xml
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\Winlock.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\Winlock.exe
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\Winlock.xml
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\obj\Debug\Winlock.pdb
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\bin\Debug\lock.wav
+C:\Documents and Settings\Oleg\My Documents\Visual Studio 2008\Projects\Winlock\Winlock\bin\Debug\unlock.wav
